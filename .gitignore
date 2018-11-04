@@ -1,3 +1,6 @@
+# MS Word temprorary files
+~$*.doc*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
